@@ -1,0 +1,5 @@
+@nrows 150
+@ncols 150
+@steps 0      # 0 = infinite number of steps
+@config random
+@seed 10000
