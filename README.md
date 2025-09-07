@@ -43,3 +43,15 @@ To try different starting conditions, simply pass different configuration files 
 
 
 ## Examples
+
+
+https://github.com/user-attachments/assets/23b6cd47-6ee7-4b8b-9e49-501b47d39616
+
+
+
+https://github.com/user-attachments/assets/f17af571-31a9-4434-977e-957a6b28fc0b
+
+
+
+https://github.com/user-attachments/assets/5cd77b72-620e-463b-bb6a-3904b993f182
+
